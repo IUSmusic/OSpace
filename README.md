@@ -13,6 +13,8 @@ OSpace is a deployable spatial interaction system designed for calibrated physic
 
 OSpace is the system layer.
 
+OSpace is a spatial interaction system built around OBoard and currently supports three deployment modes: Holo Mode, Ceiling Projection Mode, and Spatial Camera Mode.
+
 **OBoard** is the typing module inside OSpace.  
 **Holo** is the keyboard interaction implementation that currently demonstrates and validates the input behavior.
 
