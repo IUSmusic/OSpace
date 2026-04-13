@@ -1,5 +1,12 @@
 # OSpace
 
+
+[preview](/image01.png)
+[preview](/image02.png)
+[preview](/image03.png)
+
+
+
 **Spatial interaction system with OBoard as the typing module**
 
 OSpace is a deployable spatial interaction system designed for calibrated physical environments. The system combines spatial anchoring, visible keyboard guidance, hand-tracked interaction, optional mirror support, and multimodal feedback.
