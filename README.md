@@ -1,9 +1,9 @@
 # OSpace
 
 
-[preview](/image01.png)
-[preview](/image02.png)
-[preview](/image03.png)
+![preview](/01.png)
+![preview](/02.png)
+![preview](/03.png)
 
 
 
