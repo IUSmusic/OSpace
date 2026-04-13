@@ -1,0 +1,97 @@
+Copyright (c) 2026 Pezhman Farhangi
+
+All rights reserved, except as expressly stated below.
+
+This repository and the software, source code, documentation, architecture descriptions,
+interaction models, system designs, visual designs, data structures, text, diagrams,
+and other original materials contained in it, collectively the "Work", are the exclusive
+property of Pezhman Farhangi, except for third-party materials identified in separate
+notices or where another license is expressly stated.
+
+1. Limited Permission Grant
+
+Subject to the terms of this License, the copyright holder grants you a limited,
+worldwide, non-exclusive, non-transferable, non-sublicensable, revocable license to:
+
+(a) view, run, and use the Work for personal, educational, evaluation, and
+    non-commercial research purposes;
+
+(b) reproduce the Work locally as reasonably necessary to inspect, evaluate,
+    study, validate, and test it for those purposes;
+
+(c) make private, internal modifications to the Work as reasonably necessary for
+    non-commercial research, evaluation, validation, and reproducibility; and
+
+(d) publish and discuss research results derived from your use of the Work,
+    provided that you do not redistribute substantial portions of the Work itself
+    except as allowed by applicable law or with prior written permission.
+
+2. Conditions
+
+You must:
+
+(a) retain this License, copyright notice, and any attribution notices in all
+    copies you make for permitted use; and
+
+(b) provide appropriate attribution to Pezhman Farhangi and the repository when
+    referencing or citing the Work in publications or public discussion, where customary.
+
+3. Restrictions
+
+Except as expressly permitted above, you may not, without prior written permission
+from the copyright holder:
+
+(a) use the Work for any commercial purpose;
+
+(b) distribute, publish, sublicense, sell, rent, or otherwise make the Work available
+    to third parties in source form, binary form, or modified form;
+
+(c) operate a public hosted version, mirror, or competing service based on the Work;
+
+(d) create or distribute derivative works for public use;
+
+(e) remove attribution, copyright, license, patent, or proprietary notices;
+
+(f) imply endorsement by the copyright holder; or
+
+(g) use any name, logo, or trademark associated with the Work except for truthful,
+    nominative reference.
+
+4. Relationship to OBoard and Holo
+
+This repository may reference, interoperate with, or conceptually build upon
+materials associated with OBOARD and Holo.
+
+No rights in OBOARD, Holo, or their repositories are granted by this License beyond
+the rights granted under their own repository licenses and notices.
+
+To the extent any OBOARD design materials, Holo source materials, or repository-specific
+assets are included, referenced, copied, embedded, or adapted in this Work, those
+materials remain subject to their own applicable license terms, notices, and restrictions.
+
+5. Third-Party Materials
+
+Third-party components, services, data providers, fonts, trademarks, trademarks of
+platform vendors, and other external materials referenced by or interoperating with the
+Work remain the property of their respective owners and are subject to their own
+license terms, usage policies, and terms of service. Nothing in this License claims
+ownership of, or grants rights in, any such third-party materials.
+
+6. Reservation of Rights
+
+All rights not expressly granted under this License are reserved.
+
+7. Termination
+
+This License automatically terminates if you violate its terms. Upon termination,
+you must cease all use of the Work and destroy copies in your possession or control,
+except where retention is required by law.
+
+8. Disclaimer
+
+THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDER
+BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF
+CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE WORK
+OR THE USE OR OTHER DEALINGS IN THE WORK.
