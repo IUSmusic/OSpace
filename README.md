@@ -368,3 +368,75 @@ For the current phase, OSpace intentionally keeps OBoard **2D**. This allows the
 - deployment clarity
 
 The long-term system may support more advanced spatial geometry. The current system is designed to make the keyboard understandable, usable, and learnable first.
+
+# NOTICE
+
+## OSpace
+
+OSpace is a spatial interaction system.
+
+Within OSpace:
+
+- **OBoard** is the typing module
+- **Holo** is the current interaction reference for keyboard behavior, calibration, mirror support, and hand-tracked input validation
+
+## Related Repositories
+
+- **OBoard**  
+  https://github.com/IUSmusic/OBOARD
+
+- **Holo**  
+  https://github.com/IUSmusic/Holo
+
+## Repository Relationship
+
+This repository defines the **system layer**.
+
+It may reference, integrate with, or conceptually build upon:
+
+- the OBoard keyboard design and layout system
+- the Holo interaction implementation and validation path
+
+These repositories remain distinct projects.
+
+## Rights and Licensing Relationship
+
+Unless expressly stated otherwise in a specific file, the contents of this repository are governed by the license provided with this repository.
+
+References to OBoard or Holo do **not** transfer ownership of those repositories or broaden the rights granted under their own license terms.
+
+If any material originating from OBoard, Holo, or another repository is incorporated, copied, embedded, adapted, or redistributed in this repository, that material remains subject to its own applicable copyright notices, license terms, and restrictions in addition to any terms that apply here.
+
+## Third-Party Materials
+
+This project may depend on, interoperate with, or describe third-party technologies, runtimes, APIs, tools, trademarks, platforms, or services.
+
+Examples may include:
+
+- browser APIs
+- hand-tracking runtimes
+- projection technologies
+- calibration and sensing pipelines
+- platform-specific frameworks
+- vendor names and product names used for descriptive reference
+
+All third-party names, marks, technologies, and materials remain the property of their respective owners.
+
+Use of third-party components, if any, remains subject to their own license terms, attribution requirements, and usage policies.
+
+## Attribution Guidance
+
+When referencing OSpace in technical discussion, evaluation, demonstrations, or research contexts, attribution should distinguish between:
+
+- **OSpace** as the spatial interaction system
+- **OBoard** as the keyboard module
+- **Holo** as the current interaction implementation reference
+
+This distinction should be preserved in documentation, presentations, public discussion, and derivative analysis.
+
+## No Additional Grant
+
+This NOTICE file is provided for attribution, repository relationship clarity, and rights consistency.
+
+It does not grant any right, license, patent permission, trademark permission, or commercialization right beyond what is explicitly granted in the repository license.
+
